@@ -2,3 +2,4 @@
 djangorestframework 
 django-jazzmin
 gunicorn
+pillow
